@@ -1,5 +1,5 @@
 # PowerBi-Dashboard
-A simple PowerBi Dashboard where you can analyze all the sales of company.
+A PowerBi Dashboard where you can analyze all the sales of company.
 ![image alt](https://github.com/KMAchmet/PowerBi-Dashboard/blob/5abcdf21756f1e32bb6d46891357e9d5da4e498d/photo%20sales.png) 
 
 ## 📊 Dashboard Overview & Key Components
